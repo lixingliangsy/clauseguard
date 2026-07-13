@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://clauseguard.com/sitemap.xml
